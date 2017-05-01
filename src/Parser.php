@@ -40,5 +40,10 @@ class Parser implements ParserInterface
         
     }
 
-    //put your code here
+    public function test()
+    {
+        //feature
+    }
+    
+    
 }
